@@ -1,39 +1,46 @@
 #QUESTION 1
-list1 = ["January", "June", "July"]
-print(list1)
+#array1 = ["January", "June", "July"]
+#print(array1)
 
 #QUESTION 2
-list2 = []
+#array2 = []
+#for x in range(700):
+#  array2.append("joy")
+#  print(array2)
 
-for x in range(700):
-
-  list2.append("joy")
-  print(list2)
 # #QUESTION 3
-# list3 = ["7"]
+#array3 = []
+#for x in range(500):
+  #array3.append("7")
+  #print(array3)
 
-# for x in list3:
-#   print(x * 700)
+# QUESTION 4
+#  array4 = []
+#  for x in range(5000):
+#    import random
+#    array4 = random.randint(0, 100)
+#    print(array4)
+
+# QUESTION 5
+#array5 = []
+#for x in range(300):
+#  import random
+#  array5 = random.randint(0, 40)
+#  print(array5)
+
+# QUESTION 6
+#array6 = []
+#for x in range(20, 801, 4):
+#print(x)
  
-# #QUESTION 4
-#   list4 = []
+# #QUESTION 8
+#array8 = "red,orange,yellow,green,blue,indigo,violet"
+#x = array8.split(",")
+#print(x)
 
-#   for x in range(5000):
-#     import random
+# Question 9
+#array9 = "Edmonton;Calgary;Vancouver;Saskatoon;Winnipeg"
+#x = array9.split(";")
+#print(x)
 
-#     print(random.randint(0, 100))
-
-# #QUESTION 5 
-#   list5 = []
-
-#   for x in range(300):
-#     import random
-
-#     print(random.randint(0, 40))
-
-# #QUESTION 7
-
-# str = "red,orange,yellow,green,blue,indigo,violet"
-
-# x = str.split(" ,  ")
-# print(x)
+#QUESTION 10
